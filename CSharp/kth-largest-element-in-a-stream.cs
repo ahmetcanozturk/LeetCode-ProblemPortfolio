@@ -4,10 +4,10 @@ using System.Collections.Generic;
 
 namespace LeetCodeProblemSolutions
 {
-    /// <summary>
-    // solution to the leetcode problem "Kth Largest Element in a Stream"
-    // https://leetcode.com/problems/kth-largest-element-in-a-stream
-    /// </summary>
+    /*
+     * solution to the leetcode problem "Kth Largest Element in a Stream"
+     * https://leetcode.com/problems/kth-largest-element-in-a-stream
+    */
     public class KthLargest
     {
         private static int count;
