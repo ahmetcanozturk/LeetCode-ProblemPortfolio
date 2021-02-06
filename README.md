@@ -5,5 +5,6 @@ Solutions are provided in C# and Python.
 
 #### solutions in C#
 - Kth Largest Element in a Stream
+- Next Greater Element II
 
 #### solutions in Python
