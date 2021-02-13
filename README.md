@@ -1,5 +1,5 @@
-# LeetCode-ProblemSolutions
-## Problem portfolio solved in LeetCode
+# LeetCode Problem Portfolio
+## Problem solutions portfolio for selected problems listed in LeetCode
 
 Solutions are provided in C# and Python.
 
@@ -7,5 +7,6 @@ Solutions are provided in C# and Python.
 - Kth Largest Element in a Stream
 - Next Greater Element II
 - Rotting Oranges
+- Vertical Order Traversal of a Binary Tree
 
 #### solutions in Python
