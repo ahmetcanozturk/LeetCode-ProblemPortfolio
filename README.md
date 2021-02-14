@@ -4,7 +4,9 @@
 Solutions are provided in C# and Python.
 
 #### solutions in C#
+- Container with Most Water
 - Kth Largest Element in a Stream
+- Letter Combinations of a Phone Number
 - Next Greater Element II
 - Rotting Oranges
 - Vertical Order Traversal of a Binary Tree
