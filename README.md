@@ -12,3 +12,5 @@ Solutions are provided in C# and Python.
 - Vertical Order Traversal of a Binary Tree
 
 #### solutions in Python
+- 3Sum
+- Longest Palindromic Substring
