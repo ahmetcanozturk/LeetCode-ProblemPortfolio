@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-
 /*
     * solution to the leetcode problem "Kth Largest Element in a Stream"
     * https://leetcode.com/problems/kth-largest-element-in-a-stream
