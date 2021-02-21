@@ -1,10 +1,10 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 /*
     * solution to the leetcode problem "Vertical Order Traversal of a Binary Tree"
     * https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+    * Ahmetcan Ozturk
 */
 public class Solution {
     public IList<IList<int>> VerticalTraversal(TreeNode root) {

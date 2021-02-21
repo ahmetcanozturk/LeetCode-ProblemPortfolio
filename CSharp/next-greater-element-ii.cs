@@ -4,6 +4,7 @@ using System.Collections.Generic;
 /*
     * solution to the leetcode problem "Next Greater Element II"
     * https://leetcode.com/problems/next-greater-element-ii
+    * Ahmetcan Ozturk
 */
 public class Solution 
 {

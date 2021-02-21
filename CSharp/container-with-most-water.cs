@@ -2,6 +2,7 @@ using System;
 /*
     * solution to the leetcode problem "Container With Most Water"
     * https://leetcode.com/problems/container-with-most-water
+    * Ahmetcan Ozturk
 */
 public class Solution
 {

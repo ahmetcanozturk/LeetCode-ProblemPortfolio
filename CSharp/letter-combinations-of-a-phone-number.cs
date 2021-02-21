@@ -3,6 +3,7 @@ using System.Collections.Generic;
 /*
     * solution to the leetcode problem "Letter Combinations of a Phone Number"
     * https://leetcode.com/problems/letter-combinations-of-a-phone-number
+    * Ahmetcan Ozturk
 */
 public class Solution {
     public IList<string> LetterCombinations(string digits) {

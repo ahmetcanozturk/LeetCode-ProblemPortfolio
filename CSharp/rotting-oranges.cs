@@ -4,6 +4,7 @@ using System.Collections.Generic;
 /*
     * solution to the leetcode problem "Rotting Oranges"
     * https://leetcode.com/problems/rotting-oranges
+    * Ahmetcan Ozturk
 */
 public class Solution {
     public int OrangesRotting(int[][] grid) {
